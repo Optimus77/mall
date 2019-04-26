@@ -4,25 +4,6 @@
 
 > 基于SpringBoot+MyBatis的电商系统，包括前台商城系统及后台管理系统。
 
-> 如果该项目对您有帮助，您可以点右上角 "Star" 支持一下,谢谢！
-
-> 该项目已由`CODING`特别赞助，支持的可以点下赞助商链接，探索下功能即可，谢谢！
-
-> 项目交流QQ群：[553018255](http://qm.qq.com/cgi-bin/qm/qr?k=M5Edq2TiJL_ShcOEeYjwcmdGmq4zZrd_)、[959351312(满)](http://qm.qq.com/cgi-bin/qm/qr?k=V6xu5c12j9qhnMUNdDRzakNxRKzOxibQ)。
-
-> 码云项目地址：[https://gitee.com/macrozheng/mall](https://gitee.com/macrozheng/mall)
-
-## 前言
-
-`mall`项目致力于打造一个完整的电商系统，采用现阶段流行技术实现。
-
-## 特别赞助商
-
-<p align="left">
-<a href="https://coding.net/?utm_source=macrozheng&utm_medium=banner&utm_campaign=march2019" target="_blank">
-  <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/coding.png" width=""/>
- </a>
-</p>
 
 ## 项目介绍
 
@@ -34,19 +15,12 @@
 
 > 后台管理系统
 
-前端项目`mall-admin-web`地址：https://github.com/macrozheng/mall-admin-web 
-
 项目演示地址： [http://39.98.190.128/index.html](http://39.98.190.128/index.html)  
   
-![后台管理系统功能演示.gif](/document/resource/mall-admin.gif)
 
 > 前台商城系统
 
-前端项目`mall-app-web`地址：敬请期待......
-
-项目演示地址：[http://39.98.190.128/mall-app/mainpage.html](http://39.98.190.128/mall-app/mainpage.html)
-
-![前台商城系统功能演示.gif](/document/resource/mall-app.gif)
+前端项目`mall-app-web`
 
 ### 组织结构
 
@@ -179,10 +153,6 @@ nginx | 1.10 | http://nginx.org/en/download.html
 - 使用maven构建`mall-admin`、`mall-search`、`mall-portal`的docker镜像，参考[docker.md](document/reference/docker.md)中的使用maven构建Docker镜像;
 - docker下环境安装及部署请参考[docker-deploy.md](document/docker/docker-deploy.md)。
 
-## 项目相关文档
-
-具体详见wiki:[https://github.com/macrozheng/mall/wiki](https://github.com/macrozheng/mall/wiki)
-
 ## 参考资料
 
 - [Spring实战（第4版）](https://book.douban.com/subject/26767354/)
@@ -199,8 +169,3 @@ nginx | 1.10 | http://nginx.org/en/download.html
 - [Kubernetes权威指南](https://book.douban.com/subject/26902153/)
 - [Pro Git](https://git-scm.com/book/zh/v2)
 
-## 许可证
-
-[Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
-
-Copyright (c) 2018-2019 macrozheng
